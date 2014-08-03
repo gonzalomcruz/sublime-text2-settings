@@ -3,7 +3,7 @@ sublime-text2-settings
 
 Sublime Text 2 user settings file
 
-# Sublime Text 2 currently installed packages:
+### Sublime Text 2 currently installed packages:
 
 * Package Control
 
