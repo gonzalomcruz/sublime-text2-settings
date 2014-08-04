@@ -20,3 +20,9 @@ Sublime Text 2 user settings file
 * Theme - Flatland
 
 * ZenTabs
+
+* JsMinifier
+
+* LESS
+
+* Modific
