@@ -9,7 +9,7 @@
 	"bold_folder_labels": false,
 
 	// Sets the colors used within the text area
-	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/MonokaiGray (SL).tmTheme",
 
 	// Set to "none" to turn off drawing white space, "selection" to draw only the
 	// white space within the selection, and "all" to draw all white space

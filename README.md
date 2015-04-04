@@ -17,16 +17,12 @@ Sublime Text 2 user settings file
 
 * SideBarEnhancements
 
-* Theme - Flatland
+* Monokai Gray
 
 * Theme - itg.flat
 
 * Python PEP8 Autoformat
 
 * ZenTabs
-
-* JsMinifier
-
-* LESS
 
 * Modific
