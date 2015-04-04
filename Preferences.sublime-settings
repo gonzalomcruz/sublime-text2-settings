@@ -35,7 +35,7 @@
 	// specific settings file, for example, "Preferences (Linux).sublime-settings".
 	// Because of this, setting them here will have no effect: you must set them
 	// in your User File Preferences.
-	"font_size": 14.0,
+	"font_size": 13.0,
 
 	// If enabled, will highlight any line with a caret
 	"highlight_line": true,
@@ -68,7 +68,7 @@
 	"tab_size": 4,
 
 	// The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)
-	"theme": "Flatland Dark.sublime-theme",
+	"theme": "itg.flat.dark.sublime-theme",
 
 	// Set to true to insert spaces when tab is pressed
 	"translate_tabs_to_spaces": false,

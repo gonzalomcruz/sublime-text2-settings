@@ -19,6 +19,10 @@ Sublime Text 2 user settings file
 
 * Theme - Flatland
 
+* Theme - itg.flat
+
+* Python PEP8 Autoformat
+
 * ZenTabs
 
 * JsMinifier
