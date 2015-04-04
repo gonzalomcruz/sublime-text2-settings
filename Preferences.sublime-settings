@@ -69,6 +69,7 @@
 
 	// The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)
 	"theme": "itg.flat.dark.sublime-theme",
+	"itg_small_tabs": true,
 
 	// Set to true to insert spaces when tab is pressed
 	"translate_tabs_to_spaces": false,
