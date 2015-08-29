@@ -13,6 +13,8 @@ Sublime Text 2 user settings file
 
 * DocBlockr
 
+* Ctags (requires ctags: brew install ctags)
+
 * SublimeLinter
 
 * SideBarEnhancements
