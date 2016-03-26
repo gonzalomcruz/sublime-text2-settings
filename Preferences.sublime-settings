@@ -73,7 +73,7 @@
 	"itg_scrollbar_medium": true,
 
 	// Set to true to insert spaces when tab is pressed
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 
 	//I cannot remember where this preference is coming from
 	"wide_caret": true,
